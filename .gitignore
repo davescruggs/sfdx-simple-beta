@@ -3,6 +3,8 @@
 .project
 .salesforce
 .settings
+.env
+setjwtgrant
 node_modules
 .idea
 mdapioutput_dir/
